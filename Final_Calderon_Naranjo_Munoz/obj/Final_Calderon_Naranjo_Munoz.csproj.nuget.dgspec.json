@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ana\\Documents\\SeptimoSemestre\\Arquitectua de Computadores\\Final\\Final_Calderon_Naranjo_Munoz\\Final_Calderon_Naranjo_Munoz\\Final_Calderon_Naranjo_Munoz.csproj": {}
+    "D:\\Universidad\\S7\\Arqui Hardware\\workspace\\filtering-bmp-images\\Final_Calderon_Naranjo_Munoz\\Final_Calderon_Naranjo_Munoz.csproj": {}
   },
   "projects": {
-    "D:\\Ana\\Documents\\SeptimoSemestre\\Arquitectua de Computadores\\Final\\Final_Calderon_Naranjo_Munoz\\Final_Calderon_Naranjo_Munoz\\Final_Calderon_Naranjo_Munoz.csproj": {
+    "D:\\Universidad\\S7\\Arqui Hardware\\workspace\\filtering-bmp-images\\Final_Calderon_Naranjo_Munoz\\Final_Calderon_Naranjo_Munoz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ana\\Documents\\SeptimoSemestre\\Arquitectua de Computadores\\Final\\Final_Calderon_Naranjo_Munoz\\Final_Calderon_Naranjo_Munoz\\Final_Calderon_Naranjo_Munoz.csproj",
+        "projectUniqueName": "D:\\Universidad\\S7\\Arqui Hardware\\workspace\\filtering-bmp-images\\Final_Calderon_Naranjo_Munoz\\Final_Calderon_Naranjo_Munoz.csproj",
         "projectName": "Final_Calderon_Naranjo_Munoz",
-        "projectPath": "D:\\Ana\\Documents\\SeptimoSemestre\\Arquitectua de Computadores\\Final\\Final_Calderon_Naranjo_Munoz\\Final_Calderon_Naranjo_Munoz\\Final_Calderon_Naranjo_Munoz.csproj",
-        "packagesPath": "C:\\Users\\Ana\\.nuget\\packages\\",
-        "outputPath": "D:\\Ana\\Documents\\SeptimoSemestre\\Arquitectua de Computadores\\Final\\Final_Calderon_Naranjo_Munoz\\Final_Calderon_Naranjo_Munoz\\obj\\",
+        "projectPath": "D:\\Universidad\\S7\\Arqui Hardware\\workspace\\filtering-bmp-images\\Final_Calderon_Naranjo_Munoz\\Final_Calderon_Naranjo_Munoz.csproj",
+        "packagesPath": "C:\\Users\\Juan Naranjo\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\S7\\Arqui Hardware\\workspace\\filtering-bmp-images\\Final_Calderon_Naranjo_Munoz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Juan Naranjo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

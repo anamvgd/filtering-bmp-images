@@ -11,3 +11,16 @@ D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\Final_Caldero
 D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\Final_Calderon_Naranjo_Munoz\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.dll
 D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\Final_Calderon_Naranjo_Munoz\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.pdb
 D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\Final_Calderon_Naranjo_Munoz\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.genruntimeconfig.cache
+D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\bin\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.exe
+D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\bin\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.deps.json
+D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\bin\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.runtimeconfig.json
+D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\bin\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.runtimeconfig.dev.json
+D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\bin\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.dll
+D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\bin\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.pdb
+D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.csprojAssemblyReference.cache
+D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.csproj.CoreCompileInputs.cache
+D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.AssemblyInfoInputs.cache
+D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.AssemblyInfo.cs
+D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.dll
+D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.pdb
+D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.genruntimeconfig.cache
