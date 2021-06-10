@@ -24,3 +24,16 @@ D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_N
 D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.dll
 D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.pdb
 D:\Universidad\S7\Arqui Hardware\workspace\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.genruntimeconfig.cache
+D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\bin\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.exe
+D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\bin\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.deps.json
+D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\bin\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.runtimeconfig.json
+D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\bin\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.runtimeconfig.dev.json
+D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\bin\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.dll
+D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\bin\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.pdb
+D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.csprojAssemblyReference.cache
+D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.AssemblyInfoInputs.cache
+D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.AssemblyInfo.cs
+D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.csproj.CoreCompileInputs.cache
+D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.dll
+D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.pdb
+D:\Ana\Documents\SeptimoSemestre\Arquitectua de Computadores\Final\filtering-bmp-images\Final_Calderon_Naranjo_Munoz\obj\Debug\netcoreapp3.1\Final_Calderon_Naranjo_Munoz.genruntimeconfig.cache

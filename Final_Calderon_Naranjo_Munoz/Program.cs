@@ -282,67 +282,72 @@ namespace Final_Calderon_Naranjo_Munoz
 
         protected void leerImagen(String path, int i)
         {
-            // Load file meta data with FileInfo
-            FileInfo fileInfo = new FileInfo(path);
-            //Console.WriteLine(fileInfo.Length);
-            // The byte[] to save the data in
-            byte[] data = new byte[fileInfo.Length];
-            // Load a filestream and put its content into the byte[]
 
-            
-            using (FileStream fs = fileInfo.OpenRead())
+            for (i = 0; i < 3; i++)
             {
-                fs.Read(data, 0, data.Length);
+
+                // Load file meta data with FileInfo
+                FileInfo fileInfo = new FileInfo(path);
+                //Console.WriteLine(fileInfo.Length);
+                // The byte[] to save the data in
+                byte[] data = new byte[fileInfo.Length];
+                // Load a filestream and put its content into the byte[]
+
+
+                using (FileStream fs = fileInfo.OpenRead())
+                {
+                    fs.Read(data, 0, data.Length);
+                }
+
+                byte[] imagenfilteringAlgorithmXYIJ2 = filteringAlgorithmXYIJ2(data);
+
+                FileInfo output = new FileInfo("../../../../BMPImages/Out" + i + "-1" + ".bmp");
+                using (FileStream fs = output.OpenWrite())
+                {
+                    fs.Write(data, 0, data.Length);
+                }
+
+                byte[] imagenfilteringAlgorithmYXIJ = filteringAlgorithmYXIJ(data);
+
+                FileInfo output2 = new FileInfo("../../../../BMPImages/Out" + i + "-2" + ".bmp");
+                using (FileStream fs = output2.OpenWrite())
+                {
+                    fs.Write(data, 0, data.Length);
+                }
+
+
+                byte[] imagenfilteringAlgorithmXYJI = filteringAlgorithmXYJI(data);
+
+                FileInfo output3 = new FileInfo("../../../../BMPImages/Out" + i + "-3" + ".bmp");
+                using (FileStream fs = output3.OpenWrite())
+                {
+                    fs.Write(data, 0, data.Length);
+                }
+
+                byte[] imagenfilteringAlgorithmYXJI = filteringAlgorithmYXJI(data);
+
+                FileInfo output4 = new FileInfo("../../../../BMPImages/Out" + i + "-4" + ".bmp");
+                using (FileStream fs = output4.OpenWrite())
+                {
+                    fs.Write(data, 0, data.Length);
+                }
+
+                byte[] imagenfilteringAlgorithmXYunrolling = filteringAlgorithmXYunrolling(data);
+
+                FileInfo output5 = new FileInfo("../../../../BMPImages/Out" + i + "-5" + ".bmp");
+                using (FileStream fs = output5.OpenWrite())
+                {
+                    fs.Write(data, 0, data.Length);
+                }
+
+                byte[] imagenfilteringAlgorithmYXunrolling = filteringAlgorithmYXunrolling(data);
+
+                FileInfo output6 = new FileInfo("../../../../BMPImages/Out" + i + "-6" + ".bmp");
+                using (FileStream fs = output6.OpenWrite())
+                {
+                    fs.Write(data, 0, data.Length);
+                }
             }
-
-            byte[] imagenfilteringAlgorithmXYIJ2 = filteringAlgorithmXYIJ2(data);
-
-            FileInfo output = new FileInfo("../../../../BMPImages/Out" + i + "-1" + ".bmp");
-            using (FileStream fs = output.OpenWrite())
-            {
-                fs.Write(data, 0, data.Length);
-            }
-
-            byte[] imagenfilteringAlgorithmYXIJ = filteringAlgorithmYXIJ(data);
-
-            FileInfo output2 = new FileInfo("../../../../BMPImages/Out" + i + "-2" + ".bmp");
-            using (FileStream fs = output2.OpenWrite())
-            {
-                fs.Write(data, 0, data.Length);
-            }
-
-            
-            byte[] imagenfilteringAlgorithmXYJI = filteringAlgorithmXYJI(data);
-
-            FileInfo output3 = new FileInfo("../../../../BMPImages/Out" + i + "-3" + ".bmp");
-            using (FileStream fs = output3.OpenWrite())
-            {
-                fs.Write(data, 0, data.Length);
-            }
-
-            byte[] imagenfilteringAlgorithmYXJI = filteringAlgorithmYXJI(data);
-
-            FileInfo output4 = new FileInfo("../../../../BMPImages/Out" + i + "-4" + ".bmp");
-            using (FileStream fs = output4.OpenWrite())
-            {
-                fs.Write(data, 0, data.Length);
-            }
-
-            byte[] imagenfilteringAlgorithmXYunrolling = filteringAlgorithmXYunrolling(data);
-
-            FileInfo output5 = new FileInfo("../../../../BMPImages/Out" + i + "-5" + ".bmp");
-            using (FileStream fs = output5.OpenWrite())
-            {
-                fs.Write(data, 0, data.Length);
-            }
-
-            byte[] imagenfilteringAlgorithmYXunrolling = filteringAlgorithmYXunrolling(data);
-
-            FileInfo output6 = new FileInfo("../../../../BMPImages/Out" + i + "-6" + ".bmp");
-            using (FileStream fs = output6.OpenWrite())
-            {
-                fs.Write(data, 0, data.Length);
-            } 
 
         }
     }
