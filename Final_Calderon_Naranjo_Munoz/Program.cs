@@ -57,7 +57,7 @@ namespace Final_Calderon_Naranjo_Munoz
 
             long time2 = DateTime.Now.Ticks;
             long finalTime = (time2 - time1) * 100;
-            Console.WriteLine(finalTime);
+            Console.WriteLine(finalTime+"  "+"1");
             int co = 0;
             for (int x = 0; x < n; x++) // starts at offset + n because image upper limit of the image is ignored
             {
@@ -98,7 +98,7 @@ namespace Final_Calderon_Naranjo_Munoz
 
             long time2 = DateTime.Now.Ticks;
             long finalTime = (time2 - time1) * 100;
-            Console.WriteLine(finalTime);
+            Console.WriteLine(finalTime + "  " + "2");
 
             int co = 0;
             for (int x = 0; x < n; x++) // starts at offset + n because image upper limit of the image is ignored
@@ -141,7 +141,7 @@ namespace Final_Calderon_Naranjo_Munoz
 
             long time2 = DateTime.Now.Ticks;
             long finalTime = (time2 - time1) * 100;
-            Console.WriteLine(finalTime);
+            Console.WriteLine(finalTime + "  " + "3");
 
             int co = 0;
             for (int x = 0; x < n; x++) // starts at offset + n because image upper limit of the image is ignored
@@ -183,7 +183,7 @@ namespace Final_Calderon_Naranjo_Munoz
 
             long time2 = DateTime.Now.Ticks;
             long finalTime = (time2 - time1) * 100;
-            Console.WriteLine(finalTime);
+            Console.WriteLine(finalTime + "  " + "4");
 
             int co = 0;
             for (int x = 0; x < n; x++) // starts at offset + n because image upper limit of the image is ignored
@@ -224,7 +224,7 @@ namespace Final_Calderon_Naranjo_Munoz
 
             long time2 = DateTime.Now.Ticks;
             long finalTime = (time2 - time1) * 100;
-            Console.WriteLine(finalTime);
+            Console.WriteLine(finalTime + "  " + "5");
 
             int co = 0;
             for (int x = 0; x < n; x++) // starts at offset + n because image upper limit of the image is ignored
@@ -265,7 +265,7 @@ namespace Final_Calderon_Naranjo_Munoz
 
             long time2 = DateTime.Now.Ticks;
             long finalTime = (time2 - time1) * 100;
-            Console.WriteLine(finalTime);
+            Console.WriteLine(finalTime + "  " + "6");
 
             int co = 0;
             for (int x = 0; x < n; x++) // starts at offset + n because image upper limit of the image is ignored
@@ -302,51 +302,51 @@ namespace Final_Calderon_Naranjo_Munoz
                 byte[] imagenfilteringAlgorithmXYIJ2 = filteringAlgorithmXYIJ2(data);
 
                 FileInfo output = new FileInfo("../../../../BMPImages/Out" + i + "-1" + ".bmp");
-                using (FileStream fs = output.OpenWrite())
+               /* using (FileStream fs = output.OpenWrite())
                 {
                     fs.Write(data, 0, data.Length);
-                }
+                }*/
 
                 byte[] imagenfilteringAlgorithmYXIJ = filteringAlgorithmYXIJ(data);
 
-                FileInfo output2 = new FileInfo("../../../../BMPImages/Out" + i + "-2" + ".bmp");
+               /* FileInfo output2 = new FileInfo("../../../../BMPImages/Out" + i + "-2" + ".bmp");
                 using (FileStream fs = output2.OpenWrite())
                 {
                     fs.Write(data, 0, data.Length);
-                }
+                }*/
 
 
                 byte[] imagenfilteringAlgorithmXYJI = filteringAlgorithmXYJI(data);
 
-                FileInfo output3 = new FileInfo("../../../../BMPImages/Out" + i + "-3" + ".bmp");
+              /*  FileInfo output3 = new FileInfo("../../../../BMPImages/Out" + i + "-3" + ".bmp");
                 using (FileStream fs = output3.OpenWrite())
                 {
                     fs.Write(data, 0, data.Length);
-                }
+                }*/
 
                 byte[] imagenfilteringAlgorithmYXJI = filteringAlgorithmYXJI(data);
 
-                FileInfo output4 = new FileInfo("../../../../BMPImages/Out" + i + "-4" + ".bmp");
+              /*  FileInfo output4 = new FileInfo("../../../../BMPImages/Out" + i + "-4" + ".bmp");
                 using (FileStream fs = output4.OpenWrite())
                 {
                     fs.Write(data, 0, data.Length);
-                }
+                }*/
 
                 byte[] imagenfilteringAlgorithmXYunrolling = filteringAlgorithmXYunrolling(data);
 
-                FileInfo output5 = new FileInfo("../../../../BMPImages/Out" + i + "-5" + ".bmp");
+               /* FileInfo output5 = new FileInfo("../../../../BMPImages/Out" + i + "-5" + ".bmp");
                 using (FileStream fs = output5.OpenWrite())
                 {
                     fs.Write(data, 0, data.Length);
-                }
+                }*/
 
                 byte[] imagenfilteringAlgorithmYXunrolling = filteringAlgorithmYXunrolling(data);
 
-                FileInfo output6 = new FileInfo("../../../../BMPImages/Out" + i + "-6" + ".bmp");
+              /*  FileInfo output6 = new FileInfo("../../../../BMPImages/Out" + i + "-6" + ".bmp");
                 using (FileStream fs = output6.OpenWrite())
                 {
                     fs.Write(data, 0, data.Length);
-                }
+                }*/
             }
 
         }
